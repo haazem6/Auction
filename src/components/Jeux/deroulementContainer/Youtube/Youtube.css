@@ -1,0 +1,26 @@
+.youtube{
+  
+  
+    width:610px;
+    height: 300px;
+    border-radius: 35px;
+    margin-left: 15px;
+    margin-top: 20px;
+    transition: all 0.2s ease-in-out;
+  
+   
+    
+  }
+  .icon{
+    
+   position: absolute;
+   left:165px;
+   top:47px;
+    font-size: 350px;
+    
+
+
+
+
+  }
+

@@ -1,0 +1,10 @@
+.container{
+    border:black solid;
+    width:820px;
+    height: 600px;
+    border-radius: 35px;
+    margin-left: 15px;
+    margin-top: 20px;
+    transition: all 0.2s ease-in-out;
+    
+    }

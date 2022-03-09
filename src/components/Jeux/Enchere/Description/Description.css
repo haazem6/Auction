@@ -1,0 +1,40 @@
+.description{
+    color: #7E8189;
+    float: left;
+    font-family: "Alata";
+    font-size: 20px;
+    
+    letter-spacing: px;
+    margin-top: 50px;
+    padding-bottom: 10px;
+    text-align: LEFT;
+    width: 100%;
+    padding:  25px;
+    line-height: 200%;
+    text-decoration : underline;
+    position: absolute;
+    top:100px
+  }
+.titre{
+  color: #000000;
+    float: left;
+    font-family: "Alata";
+    font-size: 40px;
+    
+    letter-spacing: px;
+    margin-top: 60px;
+    padding-bottom: 10px;
+    text-align: LEFT;
+    width: 100%;
+    padding:  25px;
+    line-height: 200%;
+    text-decoration : underline;
+    position: absolute;
+    text-align: center;
+    font-weight: bold;
+
+
+
+
+
+}

@@ -1,0 +1,8 @@
+.bg{
+
+  background: rgb(42,187,140);
+background: linear-gradient(320deg, rgba(42,187,140,1) 0%, rgba(163,241,219,1) 44%, rgba(222,255,244,1) 100%);
+
+width: 1535px;;
+height: 1080px;;
+}

@@ -1,0 +1,30 @@
+.containerr4{
+    border:black solid;
+    width:790px;
+    height: 250px;
+  
+    margin-left: 15px;
+    margin-top: 20px;
+    position: absolute;
+    left: 15px;
+    top: 385px;
+    
+  }
+.info {
+
+    margin-left: 10px;
+    margin-top: 0px;
+    font-size: 30px;
+  }
+  .Avatars{
+      
+position:absolute;
+left:600px;
+top:5px;
+ 
+    
+  
+    
+  }
+
+ 
